@@ -1,0 +1,12 @@
+streamlit
+docx2txt
+pdfplumber
+python-docx
+langchain
+ollama
+streamlit-audiorecorder
+SpeechRecognition
+pyaudio
+fpdf
+PyMuPDF
+tqdm
